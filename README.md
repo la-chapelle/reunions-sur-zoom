@@ -110,7 +110,7 @@ Voici les instructions si c'est la première fois que tu utilises Zoom :
    En joignant depuis l'app (ordinateur ou mobile), assure-toi bien d'activer ton micro (et ta caméra) une fois que tu joins la réunion
    (sur mobile il faut cliquer sur l'icône en bas à gauche et bien suivre les instructions). Ce n'est pas fait automatiquement.
 
-Si tu rencontres un quelconque problème n'hésites pas à me contacter au <Remplacez ici par votre Numéro de téléphone>.
+Si tu rencontres un quelconque problème n'hésite pas à me contacter au <Remplacez ici par votre Numéro de téléphone>.
 
 <Remplacez ici par votre Prénom>
 

@@ -46,8 +46,7 @@ A la fin des étapes de [Créer un compte Zoom](#créer-un-compte-zoom-gratuit),
 compte Zoom.  
 Vous pouvez aussi directement vous y rendre en allant sur <https://zoom.us/profile>.
 
-Si vous n'êtes pas connecté, suivre les étapes de [Se connecter sur le site de Zoom](#se-connecter-sur-le-site-de-zoom)
-à partir de l'étape 3.
+Si vous n'êtes pas connecté, suivre les étapes de [Se connecter sur le site de Zoom](#se-connecter-sur-le-site-de-zoom).
 
 Ces paramètres sont ceux que l'équipe IT de [la Chapelle](https://lachapelle.me) conseille pour le type de compte BASIQUE
 de Zoom (type de votre compte quand vous le créez et jusqu'à ce que vous décidiez de payer pour des fonctionnalités
@@ -65,7 +64,7 @@ supplémentaires; il s'agit d'un compte gratuit).
 7. Activer `Conversations enregistrées automatiquement` ![Activé](img/active.png)
 8. Activer `Jouer l’audio lorsque des participants rejoignent ou quittent` ![Activé](img/active.png)
 9. Activer `Toujours afficher la barre d’outils du contrôle des réunions` ![Activé](img/active.png)
-10. Activer `Afficher un lien « Rejoindre depuis votre navigateur »` mais si l'expérience n'est pas terrible, au cas où
+10. Activer `Afficher un lien « Rejoindre depuis votre navigateur »` même si l'expérience n'est pas terrible, au cas où
     un des participants ne puisse pas télécharger l'application ![Activé](img/active.png)
 
 ## Installer les applications Zoom
