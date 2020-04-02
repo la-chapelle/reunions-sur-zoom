@@ -1,5 +1,21 @@
 # Utiliser Zoom pour faire des réunions à distance
 
+```
+2020-04-02:
+
+Une faille de sécurité a été trouvée dans le logiciel Zoom.
+
+En attendant un correctif de sécurité de Zoom:
+
+SVP veuillez ne pas partager de liens Internet sur le chat de l'application Zoom. Si vous ne respectez pas cette consigne, vous vous exposez à partager les accès à votre machine et celles des autres participants à la conversation.
+
+De même, veuillez éviter d'utiliser le chat de Zoom pour partager de l'information sensible.
+
+Nous vous tiendrons au courant dès que la faille sera corrigée par la compagnie et nous vous donnerons les étapes à suivre.
+
+L'équipe IT de la Chapelle
+```
+
 Les instructions suivantes ont pour but d'aider les personnes impliquées à [la Chapelle](https://lachapelle.me),
 qu'elles soient employées ou bénévoles, à continuer à avoir des réunions alors que les [bureaux de la Chapelle](https://www.google.ca/maps/place/160+Rue+Saint+Viateur+E,+Montr%C3%A9al,+QC+H2T+1A8/@45.5271082,-73.5969822,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc9197c865d6d4b:0xfc160a07738250da)
 sont fermés suite aux mesures prises par le gouvernement du Québec en lien avec la COVID-19 ([fermeture de tous les services et activités commerciales non prioritaires](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/fermeture-endroits-publics-commerces-services-covid19/)).
