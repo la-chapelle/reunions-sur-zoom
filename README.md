@@ -7,7 +7,7 @@ Une faille de sécurité a été trouvée dans le logiciel Zoom.
 
 En attendant un correctif de sécurité de Zoom:
 
-SVP veuillez ne pas partager de liens Internet sur le chat de l'application Zoom. Si vous ne respectez pas cette consigne, vous vous exposez à partager les accès à votre machine et celles des autres participants à la conversation.
+SVP veuillez ne pas partager de liens Internet sur le chat de l'application Zoom. Si vous ne respectez pas cette consigne, vous vous exposez à partager les accès à votre ordinateur et celui des autres participants à la conversation.
 
 De même, veuillez éviter d'utiliser le chat de Zoom pour partager de l'information sensible.
 
