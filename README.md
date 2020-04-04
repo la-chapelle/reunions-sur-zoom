@@ -1,20 +1,25 @@
 # Utiliser Zoom pour faire des réunions à distance
 
-```
-2020-04-02:
-
-Une faille de sécurité a été trouvée dans le logiciel Zoom.
-
-En attendant un correctif de sécurité de Zoom:
-
-SVP veuillez ne pas partager de liens Internet sur le chat de l'application Zoom. Si vous ne respectez pas cette consigne, vous vous exposez à partager les accès à votre ordinateur et celui des autres participants à la conversation.
-
-De même, veuillez éviter d'utiliser le chat de Zoom pour partager de l'information sensible.
-
-Nous vous tiendrons au courant dès que la faille sera corrigée par la compagnie et nous vous donnerons les étapes à suivre.
-
-L'équipe IT de la Chapelle
-```
+---
+> 2020-04-04:
+> 
+> **[ACTIONS REQUISES]**
+> 
+> Bonjour,
+> 
+> Des failles de sécurité ont été trouvées dans le logiciel Zoom.
+> 
+> SVP veuillez:
+> 
+> 1. vous assurer d'avoir une version récente de l'application Zoom sur vos appareils  
+>    voir [Installer les applications Zoom](./configuration/README.md#installer-les-applications-zoom)
+> 2. utiliser des mots de passe pour chacune de vos réunions  
+>    voir [Paramètres de compte recommandés](./configuration/README.md#paramètres-de-compte-recommandés)  
+>    si vous aviez déjà des réunions plannifiées dans Zoom, vous assurer de les recréer afin que les nouveaux paramètres
+>    soient pris en compte et ne pas oublier de partager le mot de passe de la réunion aux participants
+> 
+> L'équipe IT de [la Chapelle](https://lachapelle.me)
+---
 
 Les instructions suivantes ont pour but d'aider les personnes impliquées à [la Chapelle](https://lachapelle.me),
 qu'elles soient employées ou bénévoles, à continuer à avoir des réunions alors que les [bureaux de la Chapelle](https://www.google.ca/maps/place/160+Rue+Saint+Viateur+E,+Montr%C3%A9al,+QC+H2T+1A8/@45.5271082,-73.5969822,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc9197c865d6d4b:0xfc160a07738250da)
@@ -119,9 +124,11 @@ Voici les instructions si c'est la première fois que tu utilises Zoom :
    - *méthode recommandée* : par l'application Zoom sur ton ordinateur
       1. télécharge et installe l'application (tu n'as pas besoin de créer un compte Zoom pour télécharger ou même après) : https://zoom.us/download#client_4meeting
       2. quand il sera l'heure de la réunion, clique sur le lien de la réunion mis plus bas dans l'email
+      3. si tu as besoin de saisir un mot de passe, il est aussi mis plus bas dans l'email
    - ou par l'application mobile :
       1. télécharge et installe la (tu n'as pas besoin de créer un compte Zoom pour télécharger ou même après) : https://zoom.us/download#mobile_app
       2. quand il sera l'heure de la réunion, clique sur le lien de la réunion mis plus bas dans l'email
+      3. si tu as besoin de saisir un mot de passe, il est aussi mis plus bas dans l'email
 
    En joignant depuis l'app (ordinateur ou mobile), assure-toi bien d'activer ton micro (et ta caméra) une fois que tu joins la réunion
    (sur mobile il faut cliquer sur l'icône en bas à gauche et bien suivre les instructions). Ce n'est pas fait automatiquement.

@@ -51,6 +51,8 @@ Si vous n'êtes pas connecté, suivre les étapes de [Se connecter sur le site d
 Ces paramètres sont ceux que l'équipe IT de [la Chapelle](https://lachapelle.me) conseille pour le type de compte BASIQUE
 de Zoom (type de votre compte quand vous le créez et jusqu'à ce que vous décidiez de payer pour des fonctionnalités
 supplémentaires; il s'agit d'un compte gratuit).
+Les paramètres pour lesquels **Activer** est en **gras**, dans la liste ci-dessous, devraient déjà être activés
+et non modifiables.
 
 1. Saisir les informations de `Date et heure`  
    ![Date et heure](img/date-et-heure.png)  
@@ -58,16 +60,23 @@ supplémentaires; il s'agit d'un compte gratuit).
 2. Dans le menu de gauche, cliquer sur `Paramètres`  
    ![Paramètres](img/parametres.png)
 3. Activer `Accès à la réunion avant l’arrivée de l’animateur` ![Activé](img/active.png)
-4. Désactiver `Demander un mot de passe lors de la planification de nouvelles réunions` ![Désactivé](img/desactive.png)
-5. Désactiver `Demander un mot de passe pour les réunions instantanées` ![Désactivé](img/desactive.png)
-6. Activer `Rappel d’une réunion prochaine` ![Activé](img/active.png)
-7. Activer `Conversations enregistrées automatiquement` ![Activé](img/active.png)
-8. Activer `Jouer l’audio lorsque des participants rejoignent ou quittent` ![Activé](img/active.png)
-9. Activer `Toujours afficher la barre d’outils du contrôle des réunions` ![Activé](img/active.png)
-10. Activer `Afficher un lien « Rejoindre depuis votre navigateur »` même si l'expérience n'est pas terrible, au cas où
+4. **Activer** `Demander un mot de passe lors de la planification de nouvelles réunions` ![Activé](img/active.png)
+5. **Activer** `Demander un mot de passe pour les réunions instantanées` ![Activé](img/active.png)
+6. **Activer** `Demander un mot de passe pour l'ID de réunion personnelle (PMI)` ![Activé](img/active.png)  
+   Sélectionner `Toutes les réunions utilisant un PMI` et enregistrer le choix
+7. Activer `Intégrez le mot de passe dans le lien de la réunion pour rejoindre en un clic` ![Activé](img/active.png)
+8. **Activer** `Exiger un mot de passe pour les participants qui se joignent par téléphone` ![Activé](img/active.png)
+9. Activer `Rappel d’une réunion prochaine` ![Activé](img/active.png)
+10. Activer `Conversations enregistrées automatiquement` ![Activé](img/active.png)
+11. Activer `Jouer l’audio lorsque des participants rejoignent ou quittent` ![Activé](img/active.png)
+12. Activer `Toujours afficher la barre d’outils du contrôle des réunions` ![Activé](img/active.png)
+13. Désactiver `Salle d'attente` ![Désactivé](img/desactive.png)
+14. Activer `Afficher un lien « Rejoindre depuis votre navigateur »` même si l'expérience n'est pas terrible, au cas où
     un des participants ne puisse pas télécharger l'application ![Activé](img/active.png)
 
 ## Installer les applications Zoom
+
+**Avant de continuer, veuillez svp vous assurer d'avoir lu la section [ACTIONS REQUISES] en en-tête de [../README.md](../README.md).**
 
 Bien que les réunions par le biais de Zoom peuvent avoir lieu directement depuis le navigateur Internet, il est
 recommandé par Zoom d'utiliser plutôt les applications dédiées.
@@ -76,9 +85,13 @@ L'équipe IT de [la Chapelle](https://lachapelle.me) recommande aussi d'utiliser
 sur smartphone car elle est mieux pour voir tous les participants en même temps.
 
 Pour les télécharger :
-- application Windows/MacOS : depuis son ordinateur, cliquer sur `Télécharger` depuis <https://zoom.us/download#client_4meeting>
-- application iOS : depuis son smartphone, cliquer sur ![application iOS](img/ios.png) depuis <https://zoom.us/download#mobile_app>
-- application Androïd : depuis son smartphone, cliquer sur ![application Androïd](img/android.png) depuis <https://zoom.us/download#mobile_app>
+- application Windows/MacOS : depuis son ordinateur, cliquer sur `Télécharger` depuis <https://zoom.us/download#client_4meeting>  
+  Windows : `Version 4.6.9 (19253.0401) (du 2 avril 2020)` ou supérieure  
+  MacOS : `Version 4.6.9 (19273.0402) (du 2 avril 2020)` ou supérieure
+- application iOS : depuis son smartphone, cliquer sur ![application iOS](img/ios.png) depuis <https://zoom.us/download#mobile_app>  
+  `Version 4.6.9 (19213.0327) (du 27 mars 2020)` ou supérieure
+- application Androïd : depuis son smartphone, cliquer sur ![application Androïd](img/android.png) depuis <https://zoom.us/download#mobile_app>  
+  `Version 4.6.8 (19194.0323) (du 24 mars 2020)` ou supérieure
 
 ## Se connecter sur le site de Zoom
 
