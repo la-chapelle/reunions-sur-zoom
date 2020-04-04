@@ -1,6 +1,6 @@
 # Être prêt à utiliser un compte Zoom pour la première fois
 
-Ce document fait partie d'un ensemble d'instructions. Merci de bien vouloir lire l'entête de [../README.md](../README.md)
+Ce document fait partie d'un ensemble d'instructions. Merci de bien vouloir lire l'en-tête de [../README.md](../README.md)
 avant de poursuivre avec la lecture ce document.
 
 ---
