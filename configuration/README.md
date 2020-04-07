@@ -67,11 +67,14 @@ et non modifiables.
 7. Activer `Intégrez le mot de passe dans le lien de la réunion pour rejoindre en un clic` ![Activé](img/active.png)
 8. **Activer** `Exiger un mot de passe pour les participants qui se joignent par téléphone` ![Activé](img/active.png)
 9. Activer `Rappel d’une réunion prochaine` ![Activé](img/active.png)
-10. Activer `Conversations enregistrées automatiquement` ![Activé](img/active.png)
-11. Activer `Jouer l’audio lorsque des participants rejoignent ou quittent` ![Activé](img/active.png)
-12. Activer `Toujours afficher la barre d’outils du contrôle des réunions` ![Activé](img/active.png)
-13. Désactiver `Salle d'attente` ![Désactivé](img/desactive.png)
-14. Activer `Afficher un lien « Rejoindre depuis votre navigateur »` même si l'expérience n'est pas terrible, au cas où
+10. Désactiver `Discussion privée` ![Désactivé](img/desactive.png)
+11. Activer `Conversations enregistrées automatiquement` ![Activé](img/active.png)
+12. Désactiver `Transfert de fichier` ![Désactivé](img/desactive.png)
+13. Activer `Jouer l’audio lorsque des participants rejoignent ou quittent` ![Activé](img/active.png)
+14. Activer `Toujours afficher la barre d’outils du contrôle des réunions` ![Activé](img/active.png)
+15. Désactiver `Salle d'attente` ![Désactivé](img/desactive.png)
+16. Désactiver `Autoriser les participants retirés à rejoindre` ![Désactivé](img/desactive.png)
+17. Activer `Afficher un lien « Rejoindre depuis votre navigateur »` même si l'expérience n'est pas terrible, au cas où
     un des participants ne puisse pas télécharger l'application ![Activé](img/active.png)
 
 ## Installer les applications Zoom
